@@ -1,7 +1,5 @@
 # 🩺 Breast Cancer Prediction
 
-<img src="https://drive.google.com/file/d/11urEWnF9yvfYOObj6bLi8-q7FrUCR-y2/view?usp=sharing">
-
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-0.24%2B-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/pandas-1.3%2B-green.svg)](https://pandas.pydata.org/)
