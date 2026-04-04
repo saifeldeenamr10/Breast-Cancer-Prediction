@@ -126,8 +126,8 @@ Two classification models were implemented with the following performance:
 Breast Cancer Prediction/
 ├── Breast Cancer Prediction.ipynb    # Main analysis notebook
 ├── data.csv                          # Dataset (569 records)
-├── README.md                         # Project documentation
-└── Description.md                    # This file
+└── README.md                         # Project documentation
+
 ```
 
 ## 🚀 Getting Started
